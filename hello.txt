@@ -2,3 +2,4 @@ hello spark
 hello scala
 hello hadoop
 master
+hbase
